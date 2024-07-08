@@ -4,6 +4,8 @@
 
 We’re thrilled to share some exciting insights from our incredible sales journey in 2019. Let’s dive into the highlights!
 
+![Screenshot 2024-05-07 024713](https://github.com/Goutammeena03/sales_dashboard-afame-technologies-internship/assets/125290702/40883408-0151-430c-82d9-f14de17ef41b)
+
 📊 Sales Overview
 
 Average Sale: $185.49
@@ -32,5 +34,3 @@ Lowest Order Month: January 2020
 
 Top Cities: San Francisco, Los Angeles
 Bottom City: Austin
-
-![Screenshot 2024-05-07 024713](https://github.com/Goutammeena03/sales_dashboard-afame-technologies-internship/assets/125290702/40883408-0151-430c-82d9-f14de17ef41b)
